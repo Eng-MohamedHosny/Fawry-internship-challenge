@@ -1,0 +1,14 @@
+H:\temp\Fawry internship challenge\bin\Debug\net10.0\QuantumRadarSystem.exe
+H:\temp\Fawry internship challenge\bin\Debug\net10.0\QuantumRadarSystem.deps.json
+H:\temp\Fawry internship challenge\bin\Debug\net10.0\QuantumRadarSystem.runtimeconfig.json
+H:\temp\Fawry internship challenge\bin\Debug\net10.0\QuantumRadarSystem.dll
+H:\temp\Fawry internship challenge\bin\Debug\net10.0\QuantumRadarSystem.pdb
+H:\temp\Fawry internship challenge\obj\Debug\net10.0\QuantumRadarSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\temp\Fawry internship challenge\obj\Debug\net10.0\QuantumRadarSystem.AssemblyInfoInputs.cache
+H:\temp\Fawry internship challenge\obj\Debug\net10.0\QuantumRadarSystem.AssemblyInfo.cs
+H:\temp\Fawry internship challenge\obj\Debug\net10.0\QuantumRadarSystem.csproj.CoreCompileInputs.cache
+H:\temp\Fawry internship challenge\obj\Debug\net10.0\QuantumRadarSystem.dll
+H:\temp\Fawry internship challenge\obj\Debug\net10.0\refint\QuantumRadarSystem.dll
+H:\temp\Fawry internship challenge\obj\Debug\net10.0\QuantumRadarSystem.pdb
+H:\temp\Fawry internship challenge\obj\Debug\net10.0\QuantumRadarSystem.genruntimeconfig.cache
+H:\temp\Fawry internship challenge\obj\Debug\net10.0\ref\QuantumRadarSystem.dll
